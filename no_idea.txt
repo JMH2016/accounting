@@ -1,2 +1,12 @@
 too old for this not
 and why is my config email wrong???
+
+The choice is yours, I'll rate the difficulty and scale later on.
+0. Quoting automation(excel itself should do it, index + match? with drop down)
+1. Scheduling(gent chart? excel linear programming?Man-month allocation)
+2. Confirmation letter control (letter creation automation for Arthurization and verification)
+3. The shape of working paper (for man-month estimation and progress visualization)
+4. Document management for full document digitalization (Mapping protocal is the key/ api)
+5. Financial(/tax) report creation automation(full excel / excel + word)
+6. Roll over challenge
+7. Sampling challenge (percentage threathold with sumif->sample with the %->pool all sample across all account)
